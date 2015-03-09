@@ -22,4 +22,11 @@ public class GitAux {
 		//comentario incluido para pruebas
         System.out.println("Aqui escribimos todos");
     }
-}
+	
+	public void testGitAux(){
+		// metodo rama developer
+		System.out.println("Metodo de developer");
+	}
+
+ }
+
