@@ -5,8 +5,8 @@
 package prgitejemplo;
 
 /**
- *
  * @author bertoa
+ * @YrenEIvan
  */
 public class GitAux {
     
@@ -19,6 +19,7 @@ public class GitAux {
     }
     
     public void metodoComunitario(){
+		//comentario incluido para pruebas
         System.out.println("Aqui escribimos todos");
     }
 }
